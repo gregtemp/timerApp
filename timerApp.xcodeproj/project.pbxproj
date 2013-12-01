@@ -33,6 +33,7 @@
 		5E427E4C184431F0002AD911 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E427DF8184431ED002AD911 /* UIKit.framework */; };
 		5E427E54184431F0002AD911 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5E427E52184431F0002AD911 /* InfoPlist.strings */; };
 		5E427E56184431F0002AD911 /* timerAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E427E55184431F0002AD911 /* timerAppTests.m */; };
+		5E427E6018443211002AD911 /* timerDone.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5E427E5F18443211002AD911 /* timerDone.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -120,6 +121,7 @@
 		5E427E51184431F0002AD911 /* timerAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "timerAppTests-Info.plist"; sourceTree = "<group>"; };
 		5E427E53184431F0002AD911 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5E427E55184431F0002AD911 /* timerAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = timerAppTests.m; sourceTree = "<group>"; };
+		5E427E5F18443211002AD911 /* timerDone.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = timerDone.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -225,6 +227,7 @@
 				5E427E04184431ED002AD911 /* Images.xcassets */,
 				5E427E06184431ED002AD911 /* Media.xcassets */,
 				5E427E37184431EE002AD911 /* C4Loop.aif */,
+				5E427E5F18443211002AD911 /* timerDone.wav */,
 				5E427E39184431EF002AD911 /* inception.mov */,
 			);
 			name = Media;
@@ -385,6 +388,7 @@
 			files = (
 				5E427DFF184431ED002AD911 /* InfoPlist.strings in Resources */,
 				5E427E38184431EE002AD911 /* C4Loop.aif in Resources */,
+				5E427E6018443211002AD911 /* timerDone.wav in Resources */,
 				5E427E07184431ED002AD911 /* Media.xcassets in Resources */,
 				5E427E40184431F0002AD911 /* Main.storyboard in Resources */,
 				5E427E05184431ED002AD911 /* Images.xcassets in Resources */,
